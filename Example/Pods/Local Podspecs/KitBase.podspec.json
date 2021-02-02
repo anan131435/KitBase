@@ -1,0 +1,29 @@
+{
+  "name": "KitBase",
+  "version": "1.0",
+  "summary": "provide base method for kit development",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/anan131435/KitBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "anan131435": "hanzhifeng@kuaishou.com"
+  },
+  "source": {
+    "git": "https://github.com/anan131435/KitBase.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "KitBase/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+      "~> 5.2.1"
+    ]
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

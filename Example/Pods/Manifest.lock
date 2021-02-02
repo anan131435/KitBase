@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.2.1)
+  - KitBase (1.0):
+    - Alamofire (~> 5.2.1)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2.1)
+  - KitBase (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  KitBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  KitBase: 1dd7dbd7f1b00cc2cd36181825327bc518918bbf
+
+PODFILE CHECKSUM: 7729304c7ece0ebc7c867a113bc048b8e7358ffd
+
+COCOAPODS: 1.10.0
