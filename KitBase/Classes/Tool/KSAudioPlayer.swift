@@ -27,7 +27,7 @@ public class KSAudioPlayer: NSObject {
             let player: AVAudioPlayer = try AVAudioPlayer.init(contentsOf: musicUrl)
             player.numberOfLoops = -1
             #if DEBUG
-            player.volume = 1.0
+            player.volume = 0.1
             #else
             player.volume = 0.0
             #endif
