@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KitBase'
-  s.version          = '1.1'
+  s.version          = '1.2'
   s.summary          = 'provide base method for kit development'
 
 # This description is used to generate tags and improve search results.

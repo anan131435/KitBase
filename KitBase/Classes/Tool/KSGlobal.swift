@@ -22,9 +22,9 @@ public let navigationBarHeight : CGFloat = isiPhoneX() ? 88 : 64
 public let kSScreenHeight: CGFloat = UIScreen.main.nativeBounds.size.height
 public let ksScreenWidth: CGFloat = UIScreen.main.bounds.size.width
 // tabBarHeight
-let tabBarHeight : CGFloat = isiPhoneX() ? 49 + 34 : 49
-let loginState: String = "loginState"
-let mainColor: UIColor = UIColor.hexColor("016efb", alpha: 1.0)
+public let tabBarHeight : CGFloat = isiPhoneX() ? 49 + 34 : 49
+public let loginState: String = "loginState"
+public let mainColor: UIColor = UIColor.hexColor("016efb", alpha: 1.0)
 public typealias KSNoParamaCallBack = () -> Void
 public typealias KShasParamaCallBack = (_ value: Any) -> Void
 public let userProtocolIdentifier: String = "userProtocolIdentifier"

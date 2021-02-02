@@ -1,6 +1,6 @@
 PODS:
   - Alamofire (5.2.1)
-  - KitBase (1.0):
+  - KitBase (1.1):
     - Alamofire (~> 5.2.1)
 
 DEPENDENCIES:
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
-  KitBase: 1dd7dbd7f1b00cc2cd36181825327bc518918bbf
+  KitBase: 50fe1a12e101bbf3246050454f1d625f117d0444
 
 PODFILE CHECKSUM: 7729304c7ece0ebc7c867a113bc048b8e7358ffd
 
